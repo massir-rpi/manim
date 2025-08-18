@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Manim media output
+media/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.env/
+
+# Log files
+*.log
+
+# Tex/LaTeX auxiliary files
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+*.blg
+*.bbl
+*.lof
+*.lot
+*.gz
+*.xdv
+*.pdf
+*.svg
+*.tex
+
+# Misc
+*.tmp
+*.bak
+*.swp
